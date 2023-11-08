@@ -10,18 +10,44 @@
           {
             "id": "0c01a0e2c3f50bf7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "0130bed107171d53",
+            "id": "d7ad52382af6fffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/Minecraft Plugin Dev/Getting Started.md",
+                "file": "Programming Languages/Python/Scrapy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4f8458157d0523d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Python/Scrapy Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "374e443905976ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Python/Python Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/Minecraft Plugin Dev/Getting Started.md",
+                "file": "Programming Languages/Python/Scrapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/Minecraft Plugin Dev/Getting Started.md",
+                "file": "Programming Languages/Python/Scrapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/Minecraft Plugin Dev/Getting Started.md"
+                "file": "Programming Languages/Python/Scrapy.md"
               }
             }
           }
@@ -155,23 +181,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0130bed107171d53",
+  "active": "d7ad52382af6fffc",
   "lastOpenFiles": [
+    "Programming Languages/Python/Virtual Environment.md",
+    "Programming Languages/Python/Python Basics.md",
+    "Programming Languages/Python/Python.md",
+    "IDE/Visual Studio Code.md",
+    "Obsidian/Obsidian Getting Started.md",
+    "Programming Languages/Python/Scrapy.md",
+    "Programming Languages/R/R Basics.md",
+    "Programming Languages/Java/Java Basics.md",
+    "Programming Languages/R",
+    "Programming Languages/Python/Scrapy Example.md",
+    "VScode.md",
+    "Programming Languages/Java/Java.md",
+    "IDE/Eclipse.md",
+    "Programming Languages/Java/Minecraft Plugin Dev/Spigot Getting Started.md",
+    "Programming Languages/Java/Java.md",
     "CodeCoffee/README.md",
     "README.md",
-    "Programming Languages/Java/Minecraft Plugin Dev/Getting Started.md",
     "CodeCoffee",
-    "IDE/Eclipse.md",
     "Programming Languages/Java/Minecraft Plugin Dev",
     "Web dev/Flask",
     "Web dev",
     "Programming Languages",
     "IDE",
-    "Programming Languages/Java/Java Basics.md",
     "Programming Languages/C++",
-    "Obsidian/Getting Started.md",
     "Obsidian",
-    "HTML",
-    "Python/Untitled"
+    "HTML"
   ]
 }
