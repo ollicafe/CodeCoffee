@@ -23,9 +23,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md"
+                "file": "README.md"
               }
             }
           }
@@ -181,14 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ad52382af6fffc",
+  "active": "a7b8165079d58eec",
   "lastOpenFiles": [
+    "Programming Languages/Python/Scrapy.md",
     "Programming Languages/Python/Virtual Environment.md",
     "Programming Languages/Python/Python Basics.md",
     "Programming Languages/Python/Python.md",
     "IDE/Visual Studio Code.md",
     "Obsidian/Obsidian Getting Started.md",
-    "Programming Languages/Python/Scrapy.md",
     "Programming Languages/R/R Basics.md",
     "Programming Languages/Java/Java Basics.md",
     "Programming Languages/R",
