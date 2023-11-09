@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md",
+                "file": "Programming Languages/Python/Scrapy Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md",
+                "file": "Programming Languages/Python/Scrapy Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md"
+                "file": "Programming Languages/Python/Scrapy Example.md"
               }
             }
           }
@@ -181,11 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ad52382af6fffc",
+  "active": "b4f8458157d0523d",
   "lastOpenFiles": [
+    "Programming Languages/Python/Scrapy.md",
+    "Programming Languages/Python/Scrapy Example.md",
     "Programming Languages/Python/Python.md",
     "README.md",
-    "Programming Languages/Python/Scrapy.md",
     "Programming Languages/Python/Virtual Environment.md",
     "Programming Languages/Python/Python Basics.md",
     "IDE/Visual Studio Code.md",
@@ -193,7 +194,6 @@
     "Programming Languages/R/R Basics.md",
     "Programming Languages/Java/Java Basics.md",
     "Programming Languages/R",
-    "Programming Languages/Python/Scrapy Example.md",
     "VScode.md",
     "Programming Languages/Java/Java.md",
     "IDE/Eclipse.md",
