@@ -8,30 +8,58 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Python",
+      "query": "tag:#IDE",
+      "color": {
+        "a": 1,
+        "rgb": 11537182
+      }
+    },
+    {
+      "query": "tag:#Python",
       "color": {
         "a": 1,
         "rgb": 6638531
       }
     },
     {
-      "query": "Java",
+      "query": "tag:#Java",
       "color": {
         "a": 1,
         "rgb": 16753664
+      }
+    },
+    {
+      "query": "tag:#C++",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#C#",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#R",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.2460498960499,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.416839916839917,
+  "repelStrength": 11.0810810810811,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6700541196536672,
+  "linkDistance": 249,
+  "scale": 0.670054119653668,
   "close": false
 }

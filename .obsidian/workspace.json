@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "d7ad52382af6fffc",
+            "id": "350657516d69115f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Scrapy.md",
+                "file": "Web dev/dot Net/ASP.Net.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b4f8458157d0523d",
+            "id": "d26e43c4e0f367ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Java/Java.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef31d91e490fa568",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,19 +54,31 @@
             }
           },
           {
-            "id": "374e443905976ea6",
+            "id": "ac0da33f1294afcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python/Python Basics.md",
+                "file": "Programming Languages/Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c97001e5ff64e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web dev/dot Net/Razor Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Python/Scrapy Example.md",
+                "file": "Web dev/dot Net/Razor Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Python/Scrapy Example.md",
+                "file": "Web dev/dot Net/Razor Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Python/Scrapy Example.md"
+                "file": "Web dev/dot Net/Razor Basics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,24 +206,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4f8458157d0523d",
+  "active": "1c97001e5ff64e94",
   "lastOpenFiles": [
-    "Programming Languages/Python/Scrapy.md",
-    "Programming Languages/Python/Scrapy Example.md",
+    "2023-11-08.md",
+    "Untitled.canvas",
+    "Web dev/dot Net/Razor Basics.md",
+    "Web dev/dot Net/ASP.Net.md",
+    "Web dev/dot Net/ASP.NET Basics.md",
     "Programming Languages/Python/Python.md",
-    "README.md",
-    "Programming Languages/Python/Virtual Environment.md",
+    "Programming Languages/Python/Scrapy Example.md",
+    "Programming Languages/Java/Java.md",
+    "Web dev/dot Net/Razor.md",
+    "Programming Languages/Python/Scrapy.md",
     "Programming Languages/Python/Python Basics.md",
-    "IDE/Visual Studio Code.md",
-    "Obsidian/Obsidian Getting Started.md",
+    "IDE/Eclipse.md",
     "Programming Languages/R/R Basics.md",
     "Programming Languages/Java/Java Basics.md",
+    "README.md",
+    "Programming Languages/Python/Virtual Environment.md",
+    "IDE/Visual Studio Code.md",
+    "Obsidian/Obsidian Getting Started.md",
     "Programming Languages/R",
     "VScode.md",
-    "Programming Languages/Java/Java.md",
-    "IDE/Eclipse.md",
     "Programming Languages/Java/Minecraft Plugin Dev/Spigot Getting Started.md",
-    "Programming Languages/Java/Java.md",
     "CodeCoffee/README.md",
     "CodeCoffee",
     "Programming Languages/Java/Minecraft Plugin Dev",

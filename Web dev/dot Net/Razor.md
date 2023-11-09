@@ -1,0 +1,1 @@
+[[Razor]] is a markup syntax for embedding .NET based code into webpages, consisting of Razor markup, [[C#]], and [[HTML]]. These files usually end in `.cshtml`
